@@ -1,0 +1,7 @@
+C:\Users\User-pc\source\repos\matheus6514\AppCep\AppCep\AppCep\bin\Debug\netstandard2.0\AppCep.deps.json
+C:\Users\User-pc\source\repos\matheus6514\AppCep\AppCep\AppCep\bin\Debug\netstandard2.0\AppCep.dll
+C:\Users\User-pc\source\repos\matheus6514\AppCep\AppCep\AppCep\obj\Debug\netstandard2.0\AppCep.csprojAssemblyReference.cache
+C:\Users\User-pc\source\repos\matheus6514\AppCep\AppCep\AppCep\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\User-pc\source\repos\matheus6514\AppCep\AppCep\AppCep\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\User-pc\source\repos\matheus6514\AppCep\AppCep\AppCep\obj\Debug\netstandard2.0\AppCep.AssemblyInfoInputs.cache
+C:\Users\User-pc\source\repos\matheus6514\AppCep\AppCep\AppCep\obj\Debug\netstandard2.0\AppCep.AssemblyInfo.cs
